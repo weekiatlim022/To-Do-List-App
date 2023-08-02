@@ -1,6 +1,8 @@
+![To-Do-List-App Screenshot](/public/screenshot.png)
 # To-Do List App in ReactJS
 
 This is a simple To-Do List app built using ReactJS. The app allows users to add, edit, and delete tasks, as well as mark tasks as completed. It provides a straightforward and user-friendly interface for managing tasks efficiently.
+**Live demo**: https://weekiatlim022.github.io/To-Do-List-App/
 
 ## Components
 
